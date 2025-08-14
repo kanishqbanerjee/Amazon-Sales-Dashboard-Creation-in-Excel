@@ -20,9 +20,6 @@ The dashboard integrates interactive features such as slicers, pivot tables, and
 ## 📊 Features
 
 - Interactive pivot charts for sales and profit analysis.
-
 - Region-wise and category-wise sales breakdown.
-
 - Reset button using VBA for quick filter clearing.
-
 - Clean and user-friendly dashboard layout.
