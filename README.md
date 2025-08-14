@@ -23,3 +23,20 @@ The dashboard integrates interactive features such as slicers, pivot tables, and
 - Region-wise and category-wise sales breakdown.
 - Reset button using VBA for quick filter clearing.
 - Clean and user-friendly dashboard layout.
+
+## 📈 Insights Derived
+
+- Identified high-performing product categories.
+- Recognized top revenue-generating regions.
+- Observed seasonal trends in sales patterns.
+
+- ## 🚀 How to Use
+
+- Download the Excel file from this repository.
+- Enable macros to use the reset button.
+- Use slicers to filter by region, category, and segment.
+- View dynamic charts for insights.
+
+
+
+
