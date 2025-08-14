@@ -16,3 +16,13 @@ The dashboard integrates interactive features such as slicers, pivot tables, and
 - Pivot Tables & Pivot Charts – For summarizing data.
 - Slicers – For quick filtering by category, region, and segment.
 - VBA Macro – For a reset button to clear all filters.
+
+## 📊 Features
+
+- Interactive pivot charts for sales and profit analysis.
+
+- Region-wise and category-wise sales breakdown.
+
+- Reset button using VBA for quick filter clearing.
+
+- Clean and user-friendly dashboard layout.
