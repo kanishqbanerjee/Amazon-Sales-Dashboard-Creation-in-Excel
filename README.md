@@ -40,4 +40,6 @@ The dashboard integrates interactive features such as slicers, pivot tables, and
 ## 📷 Screenshots
 ![Amazon sales dashboard](https://github.com/user-attachments/assets/c93d7139-62f0-4f00-a04a-336a47008ce8)
 
+## Conclusion
+This Excel-based sales dashboard successfully converts raw e-commerce data into clear, actionable insights through interactive visuals, slicers, and automation. The combination of data analysis, visualization, and VBA enhances decision-making while ensuring a smooth user experience.
 
