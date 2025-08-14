@@ -5,10 +5,7 @@ This project analyzes sales data using Microsoft Excel to uncover insights on sa
 
 🎯 Objectives:
 
-Visualize sales performance using dynamic dashboards.
-
-Provide filters for user-specific data exploration.
-
-Highlight top-performing products and regions.
-
-Enable quick reset of all filters using a VBA macro.
+-Visualize sales performance using dynamic dashboards.
+-Provide filters for user-specific data exploration.
+-Highlight top-performing products and regions.
+-Enable quick reset of all filters using a VBA macro.
