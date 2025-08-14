@@ -37,6 +37,7 @@ The dashboard integrates interactive features such as slicers, pivot tables, and
 - Use slicers to filter by region, category, and segment.
 - View dynamic charts for insights.
 
-
+## 📷 Screenshots
+![Amazon sales dashboard](https://github.com/user-attachments/assets/c93d7139-62f0-4f00-a04a-336a47008ce8)
 
 
