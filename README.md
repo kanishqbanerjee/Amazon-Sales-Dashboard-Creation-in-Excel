@@ -30,7 +30,7 @@ The dashboard integrates interactive features such as slicers, pivot tables, and
 - Recognized top revenue-generating regions.
 - Observed seasonal trends in sales patterns.
 
-- ## 🚀 How to Use
+ ## 🚀 How to Use
 
 - Download the Excel file from this repository.
 - Enable macros to use the reset button.
